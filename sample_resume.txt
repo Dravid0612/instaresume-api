@@ -1,0 +1,17 @@
+John Doe
+Email: john.doe@example.com
+Phone: +91-90000-00000
+
+SUMMARY
+Software engineer with 2 years of experience in backend development, building REST APIs and data pipelines. Skilled in Python, Flask, SQL, and Docker.
+
+EXPERIENCE
+- Backend Developer at Acme Corp (2022-2024): Built API services that handled 100k+ requests/day, reduced response latency by 30%.
+- Intern at DataLabs: Implemented ETL pipelines in Python.
+
+EDUCATION
+B.Tech in Computer Science, XYZ University (2021)
+
+PROJECTS
+- Resume Builder: Auto-generates ATS-friendly resumes.
+- Analytics Dashboard: Visualized user metrics.
